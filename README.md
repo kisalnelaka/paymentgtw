@@ -1,5 +1,3 @@
-Sure! Here's a sample technical documentation for the PHP payment gateway code provided:
-
 Payment Gateway Integration Documentation
 Overview
 This document provides technical details and guidelines for integrating the PHP Payment Gateway into your application. The PHP Payment Gateway enables secure payment processing using an external payment service provider (PSP). The provided code offers a simplified example of a payment form and demonstrates the basic flow of processing payments.
